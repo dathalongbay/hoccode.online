@@ -7,3 +7,5 @@
 ### https://hoccode.online/wp-sso-client
 ### https://hoccode.online/wp-megamenu
 ### https://hoccode.online/wp-mobilemenu
+### https://hoccode.online/laravel-shop
+### https://hoccode.online/laravel-modular
