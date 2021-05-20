@@ -5,3 +5,5 @@
 ### https://hoccode.online/wp-booking
 ### https://hoccode.online/wp-sso-server
 ### https://hoccode.online/wp-sso-client
+### https://hoccode.online/wp-megamenu
+### https://hoccode.online/wp-mobilemenu
